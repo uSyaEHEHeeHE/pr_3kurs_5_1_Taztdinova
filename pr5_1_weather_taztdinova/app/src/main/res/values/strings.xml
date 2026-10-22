@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Прогноз погоды</string>
+    <string name="header">Какая сейчас погода?</string>
+    <string name="city_hint">Город</string>
+    <string name="search">Найти</string>
+    <string name="empty_city">Сначала введите город</string>
+    <string name="error_city">Не удалось получить погоду</string>
+    <string name="label_city">Город</string>
+    <string name="label_temp">Температура, °C</string>
+    <string name="label_pressure">Давление, гПа</string>
+    <string name="label_wind">Ветер, м/с</string>
+    <string name="dash">-</string>
+</resources>
